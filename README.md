@@ -1,5 +1,5 @@
 # Welcome to NYC Sinatra!
-
+i
 ## Introduction
 
 We're going to build a history site for New York City, so we're going to need to create the following database structure:
